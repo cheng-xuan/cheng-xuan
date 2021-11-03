@@ -9,11 +9,30 @@ img {
     width: 100px;
     height: 100px;
 }
+
 .img-start {
-    border: 2px solid royalblue;
+    border: 12px solid rosybrown;
 
 }
+
 .img-start1 {
     border: 2px solid royalblue;
 
+}
+
+#img-master {
+    border: 3px dashed darkslategrey;
+}
+
+.relative {
+    margin-left: 20px;
+    background: cadetblue;
+    width: 1000px;
+    height: 1000px;
+}
+
+.absolute {
+    background: indianred;
+    width: 100px;
+    height: 100px;
 }
