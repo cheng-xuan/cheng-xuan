@@ -1,6 +1,19 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     border: 10px solid slategrey;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+.img-start {
+    border: 2px solid royalblue;
+
+}
+.img-start1 {
+    border: 2px solid royalblue;
+
 }
